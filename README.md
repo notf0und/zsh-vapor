@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://jessarcher.github.io/zsh-vapor/logo.svg?1" alt="zsh-vapor - Enhanced Laravel integration for zsh" width="400">
-</p>
-
 This plugin adds an `vapor` shell command with the following features:
 
 * It will find and execute `vapor` from anywhere within the project file tree
@@ -9,16 +5,12 @@ This plugin adds an `vapor` shell command with the following features:
 * It provides auto-completion for `vapor` commands (that also work anywhere
   within the project).
 
-<p align="center">
-    <img src="https://jessarcher.github.io/zsh-vapor/demo.svg?1">
-</p>
-
 ## Requirements
 
 * [zsh](https://www.zsh.org/)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * A [Laravel](https://laravel.com/) project
-* vapor-cli package installed with composer in the project
+* [vapor-cli](https://github.com/laravel/vapor-cli) package installed with composer in the project
 
 ## Installation
 
